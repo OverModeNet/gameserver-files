@@ -20,7 +20,7 @@ settings:
   incoming-packet-spam-threshold: 300
   suggest-player-names-when-null-tab-completions: true
   max-joins-per-tick: 3
-  enable-player-collisions: true
+  enable-player-collisions: false
   save-empty-scoreboard-teams: false
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
