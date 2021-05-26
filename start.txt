@@ -1,0 +1,2 @@
+java -Xmx2G -javaagent:slimeworldmanager-classmodifier-2.6.2-SNAPSHOT.jar -jar tuinity-paperclip.jar
+PAUSE

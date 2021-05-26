@@ -1,0 +1,76 @@
+[16:54:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:55:00] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:55:00] [Worker-Main-5/INFO]: Loaded 7 recipes
+[16:55:02] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:55:02] [Server thread/INFO]: Loading properties
+[16:55:02] [Server thread/INFO]: This server is running Tuinity version git-Tuinity-"f0e91a4" (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:55:02] [Server thread/INFO]: Debug logging is disabled
+[16:55:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:55:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:55:02] [Server thread/INFO]: Default game type: SURVIVAL
+[16:55:02] [Server thread/INFO]: Generating keypair
+[16:55:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:55:02] [Server thread/INFO]: Using default channel type
+[16:55:02] [Server thread/INFO]: Tuinity: Using Java 11 compression from Velocity.
+[16:55:02] [Server thread/INFO]: Tuinity: Using Java cipher from Velocity.
+[16:55:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:55:03] [Server thread/INFO]: Preparing level "WaitingRoom"
+[16:55:03] [Server thread/INFO]: -------- World Settings For [WaitingRoom] --------
+[16:55:03] [Server thread/INFO]: View Distance: 4
+[16:55:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:55:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:55:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:55:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:55:03] [Server thread/INFO]: Mob Spawn Range: 3
+[16:55:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:55:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:55:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:55:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:55:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:55:03] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 16 / Tiv true
+[16:55:03] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 1
+[16:55:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:55:03] [Server thread/INFO]: Max TNT Explosions: 100
+[16:55:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:55:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:55:03] [Server thread/INFO]: Loaded 0 spawn chunks for world WaitingRoom
+[16:55:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:55:03] [Server thread/INFO]: Time elapsed: 272 ms
+[16:55:04] [Server thread/INFO]: Running delayed init tasks
+[16:55:04] [Server thread/INFO]: Done (1.892s)! For help, type "help"
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.9
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[16:55:04] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:55:04] [Server thread/INFO]: Timings Reset
+[16:55:05] [User Authenticator #1/INFO]: UUID of player MrP1nguin is bf2ee4bd-6d79-4d2a-80e9-526a9ada0c3c
+[16:55:06] [Server thread/INFO]: MrP1nguin joined the game
+[16:55:06] [Server thread/INFO]: MrP1nguin[/127.0.0.1:55788] logged in with entity id 253 at ([WaitingRoom]126.49139485528332, 77.0, 207.48600681129568)
+[16:55:09] [Server thread/INFO]: MrP1nguin issued server command: /tps
+[16:55:17] [Server thread/INFO]: MrP1nguin issued server command: /paper
