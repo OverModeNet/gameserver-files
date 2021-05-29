@@ -1,0 +1,4 @@
+FROM doptopenjdk/openjdk16
+COPY * /minecraft
+WORKDIR /minecraft
+ENTRYPOINT[]
